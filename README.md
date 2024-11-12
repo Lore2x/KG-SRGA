@@ -14,6 +14,6 @@ You Can Skip Rockstar Games Login with This Tool
   -to uninstall Modules Click Uninstall Modules
   -to Create Shortcut Click Create Shortcut
 
-  ## License
+
 
 [MIT License](LICENSE)
